@@ -1,0 +1,13 @@
+{
+  "title": "Company Site",
+  "description": "A static Nike-inspired landing page built with HTML and CSS to practice layout, navigation, and responsive design.",
+  "detailDescription": "A front-end practice project that recreates the look and structure of a Nike storefront homepage. The page includes dual navigation bars, a hero banner, product grids with hover overlays, membership sections, and a multi-column footer — all built with semantic HTML and custom CSS, no frameworks or JavaScript.",
+  "category": ["Web"],
+  "techStack": ["HTML", "CSS"],
+  "features": [
+    "Dual navigation header with brand logos and links",
+    "Product grid with image overlays",
+    "New arrivals and membership sections",
+    "Multi-column footer with category links"
+  ]
+}
